@@ -1,0 +1,5 @@
+1. https://www.kaggle.com/datasets/rtatman/sentiment-lexicons-for-81-languages
+
+2. https://github.com/masdevid/ID-OpinionWords/tree/master
+
+3. https://github.com/fajri91/InSet/tree/master
